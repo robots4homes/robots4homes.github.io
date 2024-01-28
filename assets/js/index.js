@@ -93,10 +93,10 @@ $(document).ready(function () {
   $('#conference-details').html(`
   <a href="${conference_details[1]}" target="_blank">
   <table align="center"><tr>
-    <td><div class="left">
+    <td valign="middle"><div class="left">
       <img src="${conference_details[4]}" width="150px" height="150px">
     </div></td>
-    <td><div class="right">
+    <td valign="middle"><div class="right">
       <img src="${conference_details[3]}" width="350px">
     </div></td>
     </tr></table>
