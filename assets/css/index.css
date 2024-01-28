@@ -80,6 +80,16 @@ font-style: italic;
   text-align: center !important;
 }
 
+.title-images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-images img {
+    margin: 0 10px; /* Adjusts space between images */
+}
+
 .display-image, .organizer-affiliation-logo-content-image {
   width: 9rem !important; /* Adjust the desired width */
   height: 9rem !important; /* Set the same value as width to make it a square */
