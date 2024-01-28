@@ -1,6 +1,6 @@
 const project_name = `Workshop on Robot Learning For Homes`
 const proj_small_caps = `<span class="small-caps">🤖🧠4🏡</span>`
-const conference_details = ['RSS 2024', 'https://roboticsconference.org/', 'TBD', 'assets/images/RSS2024_logo.png']
+const conference_details = ['RSS 2024', 'https://roboticsconference.org/', 'Delft, Netherlands', 'assets/images/RSS2024_logo.png', 'assets/images/RobotLearningForHomes_Logo.png']
 const workshop_date = `TBD, 2024`
 
 const talk_speaker_details = {
@@ -46,14 +46,14 @@ const schedule = [
   ['intro', '08:45 - 09:00', 'Introduction'],
   ['inv-talk', '09:00 - 09:30', 'Invited Talk', 'dh', 'in-person'],
   ['spot-ppt', '09:30 - 10:30', 'Spotlight Presentations'],
-  ['coffee-break', '10:30 - 11:30', '<span class="bold has-text-info">Spotlight Posters (Muse 1)</span> & Coffee Break'],
-  ['inv-talk', '11:30 - 12:00', 'Invited Talk', 'cp', 'online'],
+  ['coffee-break', '10:30 - 11:30', '<span class="bold has-text-info">Spotlight Posters</span> & Coffee Break'],
+  ['inv-talk', '11:30 - 12:00', 'Invited Talk', 'cp', 'in-person'],
   ['inv-talk', '12:00 - 12:30', 'Invited Talk',  'ra', 'in-person'],
   ['lunch-break', '12:30 - 14:00', 'Lunch Break'],
-  ['inv-talk', '14:00 - 14:30', 'Invited Talk', 'pf', 'online'],
+  ['inv-talk', '14:00 - 14:30', 'Invited Talk', 'pf', 'in-person'],
   ['spot-ppt', '14:30 - 15:30', 'Spotlight presentations'],
   ['coffee-break', '15:30 - 16:00', 'Coffee Break'],
-  // ['inv-talk', '16:00 - 16:30', 'Invited Talk', 'tba', 'in-person'],
+  // ['inv-talk', '16:00 - 16:30', 'Invited Talk', 'tba', 'online'],
   // ['inv-talk', '16:30 - 17:00', 'Invited Talk', 'tba', 'in-person'],
   ['disc', '17:00 - 17:05', 'Conclusion'], 
 ]

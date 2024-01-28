@@ -92,11 +92,12 @@ $(document).ready(function () {
   $('#project-name').html(`${proj_small_caps}<br>${project_name}`);
   $('#conference-details').html(`
   <a href="${conference_details[1]}" target="_blank">
-  <img src="${conference_details[3]}" width="300px" height="300px">
+  <img src="${conference_details[4]}" width="250px" height="250px">
+  <img src="${conference_details[3]}" width="350px" height="350px">
   <p class="is-2"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>
   ${conference_details[2]}</p>
   </a>`)
-  $('#workshop-date').html(workshop_date)
+  $('#workshop-date').html(workshop_date) // Eg. Monday, 17th July @ RSS 2024
 
   // talk content
   talk_content = Object.values(talk_speaker_details)
