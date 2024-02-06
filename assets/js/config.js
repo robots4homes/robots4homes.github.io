@@ -5,9 +5,11 @@ const workshop_date = `TBD, 2024`
 
 const talk_speaker_details = {
   'dh': ['David Hsu', './assets/images/talks/david_hsu.png', 'Professor', 'Department of Computer Science, National University of Singapore', 'https://www.comp.nus.edu.sg/~dyhsu/', ' ', ''],
-  'cp': ['Chris Paxton', './assets/images/talks/chris-paxton.jpeg', 'Research Scientist', 'Meta AI', 'https://cpaxton.github.io', 'Towards Home Robots: Open Vocabulary Mobile Manipulation in Unstructured Environments ', ''],
+  'cp': ['Chris Paxton', './assets/images/talks/chris-paxton.jpeg', 'Research Scientist', 'Meta AI', 'https://cpaxton.github.io', 'Towards Home Robots: Open Vocabulary Mobile Manipulation in Unstructured Environments', ''],
   'ra': ['Rika Antonova', './assets/images/talks/rika.jpeg', 'Postdoctoral Researcher', 'Standford', 'https://contactrika.github.io/', '', ''],
   'pf': ['Mahi Shafiullah', './assets/images/talks/mahi.jpeg', 'PhD Resercher', 'New York University', 'https://mahis.life/', '', ""],
+  'ta': ['Tamim Asfour', './assets/images/talks/tamim.jpeg', 'Professor', 'Institute for Anthropomatics and Robotics, KIT', 'https://h2t.iar.kit.edu/english/21_2372.php', 'Engineering Functional Intelligence for 24/7 Assistance at Home', ''],
+  'ke': ['Kiana Ehsani', './assets/images/talks/kiana.jpg', 'Research Scientist', 'Allen Institute for AI', 'https://sites.google.com/view/ehsanik-personal-website/', 'From Boxed Bots to Home Robots: Imitate, Generalize, Personalize', ''],
 }
 
 const organizers_details = [
@@ -53,7 +55,8 @@ const schedule = [
   ['inv-talk', '14:00 - 14:30', 'Invited Talk', 'pf', 'in-person'],
   ['spot-ppt', '14:30 - 15:30', 'Spotlight presentations'],
   ['coffee-break', '15:30 - 16:00', 'Coffee Break'],
-  // ['inv-talk', '16:00 - 16:30', 'Invited Talk', 'tba', 'online'],
-  // ['inv-talk', '16:30 - 17:00', 'Invited Talk', 'tba', 'in-person'],
+  // ['inv-talk', '16:00 - 16:30', 'Invited Talk', 'ta', 'online'],
+  ['inv-talk', '16:00 - 16:30', 'Invited Talk', 'ta', 'in-person'],
+  ['inv-talk', '16:30 - 17:00', 'Invited Talk', 'ke', 'in-person'],
   ['disc', '17:00 - 17:05', 'Conclusion'], 
 ]

@@ -94,10 +94,10 @@ $(document).ready(function () {
   <a href="${conference_details[1]}" target="_blank">
   <table align="center"><tr>
     <td><div class="left">
-      <img src="${conference_details[4]}" width="150px" height="150px">
+      <img src="${conference_details[4]}" width="130px" height="130px">
     </div></td>
     <td><div class="right">
-      <img src="${conference_details[3]}" width="350px">
+      <img src="${conference_details[3]}" width="270px">
     </div></td>
     </tr></table>
   <p class="is-2"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>
