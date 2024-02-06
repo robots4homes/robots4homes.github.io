@@ -92,14 +92,10 @@ $(document).ready(function () {
   $('#project-name').html(`${proj_small_caps}<br>${project_name}`);
   $('#conference-details').html(`
   <a href="${conference_details[1]}" target="_blank">
-  <table align="center"><tr>
-    <td><div class="left">
-      <img src="${conference_details[4]}" width="130px" height="130px">
-    </div></td>
-    <td><div class="right">
-      <img src="${conference_details[3]}" width="270px">
-    </div></td>
-    </tr></table>
+  <div class="title-images">
+    <img src="${conference_details[4]}" width="130px" height="130px">
+    <img src="${conference_details[3]}" width="270px">
+  </div>
   <p class="is-2"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>
   ${conference_details[2]}</p>
   </a>`)
