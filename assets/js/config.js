@@ -6,7 +6,7 @@ const workshop_date = `TBD, 2024`
 const talk_speaker_details = {
   'dh': ['David Hsu', './assets/images/talks/david_hsu.png', 'Professor', 'Department of Computer Science, National University of Singapore', 'https://www.comp.nus.edu.sg/~dyhsu/', ' ', ''],
   'cp': ['Chris Paxton', './assets/images/talks/chris-paxton.jpeg', 'Research Scientist', 'Meta AI', 'https://cpaxton.github.io', 'Towards Home Robots: Open Vocabulary Mobile Manipulation in Unstructured Environments', ''],
-  'ra': ['Rika Antonova', './assets/images/talks/rika.jpeg', 'Postdoctoral Researcher', 'Standford', 'https://contactrika.github.io/', '', ''],
+  'ra': ['Rika Antonova', './assets/images/talks/rika.jpeg', 'Postdoctoral Researcher', 'Standford', 'https://contactrika.github.io/', 'Efficient Autonomy: Leveraging Equivariance and Rapid Adaptation to Train Versatile Household Robots', ''],
   'pf': ['Mahi Shafiullah', './assets/images/talks/mahi.jpeg', 'PhD Resercher', 'New York University', 'https://mahis.life/', '', ""],
   'ta': ['Tamim Asfour', './assets/images/talks/tamim.jpeg', 'Professor', 'Institute for Anthropomatics and Robotics, KIT', 'https://h2t.iar.kit.edu/english/21_2372.php', 'Engineering Functional Intelligence for 24/7 Assistance at Home', ''],
   'ke': ['Kiana Ehsani', './assets/images/talks/kiana.jpg', 'Research Scientist', 'Allen Institute for AI', 'https://sites.google.com/view/ehsanik-personal-website/', 'From Boxed Bots to Home Robots: Imitate, Generalize, Personalize', ''],
