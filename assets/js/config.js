@@ -10,6 +10,7 @@ const talk_speaker_details = {
   'pf': ['Mahi Shafiullah', './assets/images/talks/mahi.jpeg', 'PhD Resercher', 'New York University', 'https://mahis.life/', '', ""],
   'ta': ['Tamim Asfour', './assets/images/talks/tamim.jpeg', 'Professor', 'Institute for Anthropomatics and Robotics, KIT', 'https://h2t.iar.kit.edu/english/21_2372.php', 'Engineering Functional Intelligence for 24/7 Assistance at Home', ''],
   'ke': ['Kiana Ehsani', './assets/images/talks/kiana.jpg', 'Research Scientist', 'Allen Institute for AI', 'https://sites.google.com/view/ehsanik-personal-website/', 'From Boxed Bots to Home Robots: Imitate, Generalize, Personalize', ''],
+  'ae': ['Aaron Edsinger', './assets/images/talks/aaron.jpg', 'CEO & Co-founder', 'Hello Robot Inc.', 'https://hello-robot.com/about', '', ''],
 }
 
 const organizers_details = [
@@ -51,7 +52,8 @@ const schedule = [
   ['coffee-break', '10:30 - 11:30', '<span class="bold has-text-info">Spotlight Posters</span> & Coffee Break'],
   ['inv-talk', '11:30 - 12:00', 'Invited Talk', 'cp', 'in-person'],
   ['inv-talk', '12:00 - 12:30', 'Invited Talk',  'ra', 'in-person'],
-  ['lunch-break', '12:30 - 14:00', 'Lunch Break'],
+  ['lunch-break', '12:30 - 13:30', 'Lunch Break'],
+  ['inv-talk', '13:30 - 14:00', 'Invited Talk', 'ae', 'in-person'],
   ['inv-talk', '14:00 - 14:30', 'Invited Talk', 'pf', 'in-person'],
   ['spot-ppt', '14:30 - 15:30', 'Spotlight presentations'],
   ['coffee-break', '15:30 - 16:00', 'Coffee Break'],
